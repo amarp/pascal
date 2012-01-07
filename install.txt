@@ -1,0 +1,4 @@
+sudo apt-get install rubygems
+sudo apt-get install libwww-mechanize-ruby
+sudo gem install icalendar
+
